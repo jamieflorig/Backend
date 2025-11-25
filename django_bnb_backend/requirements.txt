@@ -1,2 +1,10 @@
 Django==5.2.8
 psycopg2-binary==2.9.7
+dj-rest-auth==5.0.1
+django-allauth==0.58.2
+django-cors-headers==4.3.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+pillow==10.1.0
+channels==4.0.0
+daphne==4.1.0
